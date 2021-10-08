@@ -1,0 +1,6 @@
+(source gnu melpa)
+
+(package (awesome
+          (recipe . (:fetcher github :repo "ROCKTAKEY/awesome"))))
+
+(dev-dependency undercover)
