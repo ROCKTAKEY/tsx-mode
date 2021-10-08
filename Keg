@@ -1,6 +1,6 @@
 (source gnu melpa)
 
-(package (awesome
-          (recipe . (:fetcher github :repo "ROCKTAKEY/awesome"))))
+(package (tsx-mode
+          (recipe . (:fetcher github :repo "ROCKTAKEY/tsx-mode"))))
 
 (dev-dependency undercover)

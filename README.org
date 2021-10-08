@@ -1,0 +1,9 @@
+[[https://github.com/ROCKTAKEY/tsx-mode][https://img.shields.io/github/tag/ROCKTAKEY/tsx-mode.svg?style=flat-square]]
+[[file:LICENSE][https://img.shields.io/github/license/ROCKTAKEY/tsx-mode.svg?style=flat-square]]
+[[https://codecov.io/gh/ROCKTAKEY/tsx-mode?branch=master][https://img.shields.io/codecov/c/github/ROCKTAKEY/tsx-mode.svg?style=flat-square]]
+[[https://github.com/ROCKTAKEY/tsx-mode/actions][https://img.shields.io/github/workflow/status/ROCKTAKEY/tsx-mode/CI/master.svg?style=flat-square]]
+* TSX-mode: Use React TSX in Emacs.
+
+* How to Use?
+* License
+  This package is licensed by GPLv3. See [[file:LICENSE][LICENSE]].
